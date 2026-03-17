@@ -1,2 +1,4 @@
-venv
+.venv/
+venv/
 data/
+map_config.json
